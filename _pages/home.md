@@ -3,11 +3,18 @@ layout: page
 title: Home
 permalink: /
 ---
-## OVERVIEW
-I'm very excited to introduce this **new graduate course in Fall 2021!** My aim is to make this course as inclusive, diversified, and open as possible, and I will co-list the course to several communities of students:
-- **AC295**: Topics in Applied Computation, for IACS' Master's students
-- **CS287r**: Deep Learning for NLP, for computer science concentrators
-- **CSCI E-115B Harvard Extension School**, for the general public all around the world (online)
+## WELCOME
+We are glad that you're interested in research! Our aim is to provide useful insights, lessons, and recommendations for conducting _computer science_ research, and much of this content might be applicable to other fields, too. 
+
+We recognize that unfortunately research can be a dizzying and confusing process, as the nature of it is quite distinct from anything else taught in formal education. For example, the objective of courses is to teach a foundation of knowledge that is widely-accepted as being accurate and truthful. Quite often, this involves learning a set of skills necessary to interpret and leverage that knowledge. However, research inherently concerns building on to that foundation of knowledge and attempting to extend it. That is, one asks specific questions and then dives into unknown territory so as to discover new world knowledge that nobody yet knows. The _type_ of research contribution (i.e., new knowledge) can vary widely, from making advances in _modelling_, illustrating new insights about _data_, devising a new scientific _task_, and much more. To help provide guidance on the research process, we share our personal experiences and advice.
+
+
+
+
+By no means are we experts, nor do we assert that our tips should serve as an oracle; rather, we detail what we've foudn
+
+
+The research process is unfamiliar to many and that it can be difficult to find guidance on how to do it. Thus, 
 
 ### DESCRIPTION
 How can computers understand and leverage text data and human language? Natural language processing (NLP) addresses this question, and in this course students study the current, best approaches. This course provides students with a foundation of advanced concepts and **requires students to conduct significant research on an NLP project of their choosing,** culminating with a high-quality short paper (4 pages). Assessment also includes pop quizzes, homework assignments, and an exam. My goal is to help challenge each student to elicit one's best, and along the way for the course to be one of the most fun and rewarding educational experiences.
