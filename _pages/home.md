@@ -6,7 +6,7 @@ permalink: /
 ## WELCOME
 We are glad that you're interested in research! Our aim is to provide useful insights, lessons, and recommendations for conducting _computer science_ research, and much of this content might be applicable to other fields, too. 
 
-We recognize that unfortunately research can be a dizzying and confusing process, as the nature of it is quite distinct from anything else taught in formal education. For example, the objective of courses is to teach a foundation of knowledge that is widely-accepted as being accurate and truthful. Quite often, this involves learning a set of skills necessary to interpret and leverage that knowledge. However, research inherently concerns building on to that foundation of knowledge and attempting to extend it. That is, one asks specific questions and then dives into unknown territory so as to discover new world knowledge that nobody yet knows. The type of research contribution (i.e., new knowledge) can vary widely, from making advances in _modelling_, illustrating new insights about _data_, devising a new scientific _task_, and much more. To help provide guidance on the research process, we share our personal experiences and advice.
+We recognize that unfortunately research can be a dizzying and confusing process, as the nature of it is quite distinct from anything else taught in formal education. For example, generally the objective of courses is to teach a foundation of knowledge that is widely-accepted as being accurate and truthful. Quite often, this involves learning a set of skills necessary to interpret and leverage that knowledge, too. However, research inherently concerns building on to the field's foundation of knowledge and attempting to extend it. That is, one asks specific questions and then dives into unknown territory so as to discover new world knowledge that nobody yet knows. The type of research contribution (i.e., new knowledge) can vary widely, from making advances in _modelling_, illustrating new insights about _data_, devising a new scientific _task_, and much more. To help provide guidance on the research process, we share our personal experiences and advice.
 
 ## ABOUT US
 
@@ -17,8 +17,8 @@ We recognize that unfortunately research can be a dizzying and confusing process
     <td><img src="{{ site.baseurl }}/images/marie_cropped.png" alt="Marie Curie"/></td>
   </tr>
   <tr>
-    <td align="center" style="background-color:#FFFFFF" border="0">Chris Tanner (Lecturer @ Harvard)</td>
-    <td align="center" style="background-color:#FFFFFF" border="0">David Abel (Research Scientist @ DeepMind)</td>
+    <td align="center" style="background-color:#FFFFFF" border="0">Chris Tanner <br\>(Lecturer @ Harvard)</td>
+    <td align="center" style="background-color:#FFFFFF" border="0">David Abel<br \> (Research Scientist @ DeepMind)</td>
   </tr>
 </table>
 
