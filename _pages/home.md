@@ -17,8 +17,8 @@ We recognize that unfortunately research can be a dizzying and confusing process
     <td><img src="{{ site.baseurl }}/images/marie_cropped.png" alt="Marie Curie"/></td>
   </tr>
   <tr>
-    <td align="center" style="background-color:#FFFFFF" border="0">Chris Tanner <br\>(Lecturer @ Harvard)</td>
-    <td align="center" style="background-color:#FFFFFF" border="0">David Abel<br \> (Research Scientist @ DeepMind)</td>
+    <td align="center" style="background-color:#FFFFFF" border="0">Chris Tanner <br> (Lecturer @ Harvard)</td>
+    <td align="center" style="background-color:#FFFFFF" border="0">David Abel<br> (Research Scientist @ DeepMind)</td>
   </tr>
 </table>
 
