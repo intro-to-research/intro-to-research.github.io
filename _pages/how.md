@@ -1,6 +1,6 @@
 ---
 layout: page
-title: How to do research?
+title: How to do Research?
 permalink: /how
 ---
 ## UNIVERSITY BREAKS AND IMPORTANT DATES
