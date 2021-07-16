@@ -18,7 +18,7 @@ We recognize that unfortunately research can be a dizzying and confusing process
 <table align="center" style="background-color:#FFFFFF" border="0px">
   <tr align="center">
     <td><img src="{{ site.baseurl }}/images/chris_cropped.png" alt="Chris Tanner"/></td>
-    <td><img src="{{ site.baseurl }}/images/marie_cropped.png" alt="Marie Curie"/></td>
+    <td><img src="{{ site.baseurl }}/images/david_cropped.png" alt="Marie Curie"/></td>
   </tr>
   <tr>
     <td align="center" style="background-color:#FFFFFF" border="0"><a href="https://www.chriswtanner.com/">Chris Tanner</a><br> (Lecturer @ Harvard)</td>
