@@ -9,7 +9,7 @@ As mentioned in the [What?](what?) page, research always concerns a highly speci
 ## HOW TO FIND A RESEARCH PROBLEM
 
 ### 1. FIND AN AREA
-Before you can find a specific problem that you enjoy, you must first pinpoint an _area_/field that you're interested in. For example, within computer science, common fields include:
+Before you can find a specific problem that you enjoy, you must first pinpoint an area/field that you're interested in. For example, within computer science, common fields include:
 - Artificial Intelligence / Machine Learning (AI/ML)
 - Natural Language Processing (NLP)
 - Systems and Architecture
@@ -28,10 +28,23 @@ Before you can find a specific problem that you enjoy, you must first pinpoint a
 
 The best way to gain knowledge and exposure to an area is to take courses in it, as courses provide an introduction and foundation to the widely-accepted and highly useful knowledge in the field. Again, all of the information in courses was at some point late-breaking research findings. Only after having built a foundation (e.g., taken at least 1 class in the area), is it conducive to conduct research and aim to discover something that the community doesn't yet know.
 
-**TIP:** Don't quickly dismiss an entire area just because you do not enjoy a particular course in it. Think critically to assess if it's the actual content that you find unenjoyable, or if it's just the professor's teaching style that does not align with you. 
+**TIP:** Don't quickly dismiss an entire area just because you do not enjoy a particular course in it. Think critically to assess if it's the actual content that you find unenjoyable, or if it's just the professor's teaching style that does not align with you.
+
+### 2. FIND A PROBLEM
+Finding a problem to work on is often times the hardest part of conducting research, as it predicates upon having enough knowledge of current work to know what would be a novel contribution. Keep in mind, there are many levels of granularity to finding a problem. For example, the area of NLP, one can enumerate a dozen of the most common "problems" that people work on (i.e., research), such as:
+- machine translation: converting text from one language to another
+- summarization: generating succinct summaries of documents that includes the most important information
+- language modelling: developing ways to accurately estimate the probability of a sequence of words
+- natural language understanding (NLU): classifying the _intent_ and select fields are for a given user query (e.g., "Play Drivers License by Olivia" and knowing that "play" is the intent, "drivers license" is the song, and "Olivia" is the artist).
+
+All of these are coarse problems and can be thought of as sub-fields. They are not yet specific enough to start a research project, as they encompass a host of problems that people have worked on for decades. One can spend an entire career conducting research on any of these. For example, if one is interested in machine translation, one could research:
+- overall performance (accuracy)
+- performance of "low-resource" languages (not much data)
+- zero-shot translation (translate between pairs of languages that the model wasn't trained on)
+- computational efficiency
+- many more
 
 
-Perhaps you'd actually enjoy the material but your current
 
 - Big picture: look at prof’s research interests
 - Identify top-tier conferences (even if it’s not where you’ll submit, good to know what’s being done)
