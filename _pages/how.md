@@ -46,7 +46,7 @@ All of these are coarse problems and can be thought of as sub-fields. They are n
 - computational efficiency
 - many more
 
-For context, most researchers work on many different specific projects (e.g., "low-resource machine translation") for a particular problem (e.g., machine translation). And, people commonly research several different problems within a field (e.g., machine translation and summarization). Less common, but definitely not rare, a given researcher will span multiple fields within one's career (e.g., NLP and Computer Vision). Some fields are naturally more interdisciplinary than others (e.g., Human-Computer Interaction, Computational Biology).
+For context, most researchers work on many different specific projects (e.g., "low-resource machine translation") for a particular problem (e.g., machine translation). And, people commonly research several different problems within a field (e.g., machine translation and summarization, which are both within the field of NLP). Less common, but definitely not rare, a given researcher will span multiple fields within one's career (e.g., NLP and Computer Vision). Some fields are naturally more interdisciplinary than others (e.g., Human-Computer Interaction, Computational Biology).
 
 - Big picture: look at prof’s research interests
 - Identify top-tier conferences (even if it’s not where you’ll submit, good to know what’s being done)
