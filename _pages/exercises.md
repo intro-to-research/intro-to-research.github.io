@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Exercises/Activities
+title: ## RESEARCH EXERCISES AND ACTIVITIES
 permalink: /exercises
 ---
 
@@ -8,15 +8,14 @@ Within our [How?](how) page, we quickly outlined some exercises that allow one t
 
 Feel free to jump around to any of the exercises, in any order you desire.
 
-## RESEARCH EXERCISES AND ACTIVITIES
-### EXERCISE 1: FIND A PAPER
+## EXERCISE 1: FIND A PAPER
 - identify the top conferences for your field
 - if you're familiar 
 
-### EXERCISE 2: READING A PAPER IN 3 STAGES
+## EXERCISE 2: READING A PAPER IN 3 STAGES
 **Pre-requisites:** having selected a paper (Ex 1)
 
-### EXERCISE 3: QUESTION-SPREE
+## EXERCISE 3: QUESTION-SPREE
 **Pre-requisites:** having selected a paper (Ex 1) and read it (Ex 2).
 
 - Quickly jot down as many questions as you can, without stifling yourself. That is, don't overthink it. If you have a question, list it. This is the seed for brainstorming.
@@ -24,7 +23,7 @@ Feel free to jump around to any of the exercises, in any order you desire.
   -  **Clarifying** questions are ones that concern known information. That is, you should be confident that _somebody_ knows the answer to your question; For example, it can be information that is explicitly or implicitely mentioned in the paper, yet you don't understand it. Alternatively, it could be information not contained in the paper, but commonly-accepted knowledge about the problem or field at large, yet you don't understand it. Obtaining answers to your **clarifying** question may involve asking others to help read the paper, asking the authors for help, reading additional papers for context, etc.
   -  **Open-ended** questions are ones that you believe nobody knows the answer to. These are ones that are potential candidates for research questions.
 
-### EXERCISE 4: SUMMARIZING A PAPER
+## EXERCISE 4: SUMMARIZING A PAPER
 Detail:
 - what is the problem/why is it important?
 - what is their solution?
@@ -34,5 +33,5 @@ Detail:
 - what remaining questions do you have (and categorize your questions as (a) clarifying or (b) open-ended)
 
 
-### EXERCISE 5: PRESENTING A PAPER
+## EXERCISE 5: PRESENTING A PAPER
 Identifying these points is not only useful for the audience to understand, but it’s critically important for the person presenting. Getting into this habit while skimming or reading a paper is great. It helps one think critically about each paper, instead of just taking it at face value. Of course, it’s also good practice for explaining highly-technical content in simplifying terms, which is crucial for science (e.g., writing papers, giving talks)
