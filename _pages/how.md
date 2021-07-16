@@ -31,7 +31,7 @@ The best way to gain knowledge and exposure to an area is to take courses in it,
 **TIP:** Don't quickly dismiss an entire area just because you do not enjoy a particular course in it. Think critically to assess if it's the actual content that you find unenjoyable, or if it's just the professor's teaching style that does not align with you.
 
 ### 2. FIND A PROBLEM
-Finding a problem to work on is often times the hardest part of conducting research, as it predicates upon having enough knowledge of current work to know what would be a novel contribution. Keep in mind, there are many levels of granularity to finding a problem. For example, the area of NLP, one can enumerate a dozen of the most common "problems" that people work on (i.e., research), such as:
+Finding a problem to work on is often times the hardest part of conducting research, as it predicates upon having enough knowledge of current work to know what would be a novel contribution. Keep in mind, there are many levels of granularity to finding a problem. For example, within the area of NLP, one can enumerate a dozen of the most common "problems" that people work on (i.e., research), such as:
 - machine translation: converting text from one language to another
 - summarization: generating succinct summaries of documents that includes the most important information
 - language modelling: developing ways to accurately estimate the probability of a sequence of words
@@ -44,7 +44,7 @@ All of these are coarse problems and can be thought of as sub-fields. They are n
 - computational efficiency
 - many more
 
-
+For context, most researchers work on many different specific projects (e.g., "low-resource machine translation") for a particular problem (e.g., machine translation). And, people commonly research several different problems within a field (e.g., machine translation and summarization). Less common, but definitely not rare, a given researcher will span multiple fields within one's career (e.g., NLP and Computer Vision). 
 
 - Big picture: look at prof’s research interests
 - Identify top-tier conferences (even if it’s not where you’ll submit, good to know what’s being done)
