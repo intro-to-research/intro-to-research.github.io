@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Schedule
-permalink: /schedule
+title: How to do research?
+permalink: /how
 ---
 ## UNIVERSITY BREAKS AND IMPORTANT DATES
 Please visit the [Harvard 10-year Calendar](https://registrar.fas.harvard.edu/ten-year-calendar) for the latest dates:
