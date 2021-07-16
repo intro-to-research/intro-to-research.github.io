@@ -1,12 +1,15 @@
 ---
 layout: page
-title: Syllabus
-permalink: /syllabus
+title: What is Research?
+permalink: /what
 ---
-## INTRODUCTION
-Welcome to <font color="#3778AE">AC295/CS287r/CSCI E-115B (DCE)</font>!
 
-Our world is clearly inundated with digitized information nowadays, most of which is text (e.g., webpages, social media posts, news articles, long-format stories, etc). How can we use computers to “understand”, process, and leverage this information to perform meaningful tasks? **Natural Language Processing (NLP)** is concerned with exactly this. This course will provide you with the opportunity to learn the latest, advanced **machine learning/ deep learning** approaches to solve the most popular and powerful NLP tasks. Further, a core component of the course will concern research, as you’ll produce an **original research project** while working in groups of three students.
+**NOTE:** David, other than the pasted intro, the rest of this content is just my course syllabus. It's pasted here to illustrate some markup examples. Basically, any HTML can go here, and the markup syntax works, too (as long as it's not within a div tag).
+
+## INTRODUCTION
+Imagine building a birdhouse. Typically, you're given supplies and an instruction booklet, and perhaps even a kind woodworking teacher to walk you through aspects of the process. With an instruction booklet and instructor, this scenario is much like school---follow the steps, use some of your own ingenuity, put it some hard work, and at the end of the process you have a bird house. Research, on the other hand, is the process of observing the world, seeing a bird, and deciding to construct a shelter for it. You decide the nature of the structure and its purpose. You have no instruction booklet. And, ultimately, you don't know if the thing you build at the end of the day will serve the purpose you intended.
+
+A birdhouse here is an abstraction of the kinds of scientific artifacts one might produce. 
 
 ## LEARNING OBJECTIVES
 By the end of the course, you will be able to:
