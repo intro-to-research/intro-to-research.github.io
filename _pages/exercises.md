@@ -8,14 +8,14 @@ Within our [How?](how) page, we quickly outlined some exercises that allow one t
 
 Feel free to jump around to any of the exercises, in any order you desire.
 
-## EXERCISE 1: FIND A PAPER
+## EXERCISE 1: FINDING A PAPER
 - identify the top conferences for your field
 - if you're familiar 
 
 ## EXERCISE 2: READING A PAPER IN 3 STAGES
 **Pre-requisites:** having selected a paper (Ex 1)
 
-## EXERCISE 3: QUESTION-SPREE
+## EXERCISE 3: ASKING QUESTIONS
 **Pre-requisites:** having selected a paper (Ex 1) and read it (Ex 2).
 
 - Quickly jot down as many questions as you can, without stifling yourself. That is, don't overthink it. If you have a question, list it. This is the seed for brainstorming.
