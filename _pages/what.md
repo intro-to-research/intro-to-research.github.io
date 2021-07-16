@@ -4,12 +4,42 @@ title: What is Research?
 permalink: /what
 ---
 
-**NOTE:** David, other than the pasted intro, the rest of this content is just my course syllabus. It's pasted here to illustrate some markup examples. Basically, any HTML can go here, and the markup syntax works, too (as long as it's not within a div tag).
+**NOTE:** David, other than the paragraph and skeleton copied from our Google Doc, you'll notice that the rest of this page is just my course syllabus. It's pasted here to illustrate some markup examples. Basically, any HTML can go here, and the markup syntax works, too (as long as it's not within a div tag).
 
-## INTRODUCTION
+<hr>
+
 Imagine building a birdhouse. Typically, you're given supplies and an instruction booklet, and perhaps even a kind woodworking teacher to walk you through aspects of the process. With an instruction booklet and instructor, this scenario is much like school---follow the steps, use some of your own ingenuity, put it some hard work, and at the end of the process you have a bird house. Research, on the other hand, is the process of observing the world, seeing a bird, and deciding to construct a shelter for it. You decide the nature of the structure and its purpose. You have no instruction booklet. And, ultimately, you don't know if the thing you build at the end of the day will serve the purpose you intended.
 
 A birdhouse here is an abstraction of the kinds of scientific artifacts one might produce. 
+
+## NATURE OF ROLES
+Possibly an intro describing how not all companies need or have the luxury of a research team.
+
+### Software/Product Development vs Research vs Manager
+A paragraph illustrating different job roles (e.g., lego or birdhouse example)
+
+## CONCRETE RESEARCH PROBLEM TYPES
+Research is largely question-asking, then question-answering. Some of these questions, we (the world/community) already know the answer to, some we don’t. Research is often a matter of identifying the important, useful questions and delivering compelling answers to them.
+- Theory vs. testing empirical hypothesis vs. building a system.
+- Implement another paper
+- Bring new understanding to another approach/algorithm: Algorithm X has been applied mostly to problem/data/setting Y, but can it handle this other case? (Yes/No, both directions interesting).
+- Find a weakness in an existing approach
+- Connecting two ideas: for instance, if problem X has been around, and someone proposes a data model/dataset/setting, revisiting problem X with the new model/dataset/setting.
+- A new dataset (hard)
+- Showcase properties of an existing dataset
+- “Shlogging”: Results that take existing bounds and remove extraneous factors.
+- Opinion/perspective piece
+- Surveys
+- Introduce a new problem
+
+## END RESULT / GOALS
+Mention the flow of knowledge; research that is widely accepted and valued makes its way into textbooks and undergraduate curriculums.
+
+## WHAT RESEARCH IS NOT
+- Application building that's exclusively problem solving or software development
+- work that only uses existing methods with no new insights
+
+<hr>
 
 ## LEARNING OBJECTIVES
 By the end of the course, you will be able to:
