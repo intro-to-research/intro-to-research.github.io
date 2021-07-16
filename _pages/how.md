@@ -10,11 +10,11 @@ As mentioned in the [What?](what?) page, research always concerns a highly speci
 
 ### 1. FIND AN AREA
 Before you can find a specific problem that you enjoy, you must first pinpoint an _area_/field that you're interested in. For example, within computer science, common fields include:
-- AI/ML
+- Artificial Intelligence / Machine Learning (AI/ML)
 - Natural Language Processing (NLP)
 - Systems and Architecture
-- Computer Vision, Graphics, and Visualization
-- Programming Languages
+- Computer Vision (CV), Graphics, and Visualization
+- Programming Languages (PL)
 - Distrubuted Systems
 - Networks
 - Databases
@@ -23,7 +23,7 @@ Before you can find a specific problem that you enjoy, you must first pinpoint a
 - Algorithms
 - Theory
 - Computational Biology
-- Human-Computer Interaction
+- Human-Computer Interaction (HCI)
 - Education
 
 The best way to gain knowledge and exposure to an area is to take courses in it, as courses provide an introduction and foundation to the widely-accepted and highly useful knowledge in the field. Again, all of the information in courses was at some point late-breaking research findings. Only after having built a foundation (e.g., taken at least 1 class in the area), is it conducive to conduct research and aim to discover something that the community doesn't yet know.
