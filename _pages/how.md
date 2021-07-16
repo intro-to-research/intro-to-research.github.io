@@ -6,7 +6,32 @@ permalink: /how
 
 As mentioned in the [What?](what?) page, research always concerns a highly specific problem/task/issue, and it aims to produce new knowledge about it. Thus, we organize our suggestions for "how to conduct research" accordingly: first, we detail some tips about finding an interesting problem to work on, then we briefly outline some steps to dive into the problem. The [exercises](exercises) page expands on this much more.
 
-## HOW TO FIND A RESEARCH PROBLEM (broad to specific)
+## HOW TO FIND A RESEARCH PROBLEM
+
+### 1. FIND AN AREA
+Before you can find a specific problem that you enjoy, you must first pinpoint an _area_/field that you're interested in. For example, within computer science, common fields include:
+- AI/ML
+- Natural Language Processing (NLP)
+- Systems and Architecture
+- Computer Vision, Graphics, and Visualization
+- Programming Languages
+- Distrubuted Systems
+- Networks
+- Databases
+- Robotics
+- Security
+- Algorithms
+- Theory
+- Computational Biology
+- Human-Computer Interaction
+- Education
+
+The best way to gain knowledge and exposure to an area is to take courses in it, as courses provide an introduction and foundation to the widely-accepted and highly useful knowledge in the field. Again, all of the information in courses was at some point late-breaking research findings. Only after having built a foundation (e.g., taken at least 1 class in the area), is it conducive to conduct research and aim to discover something that the community doesn't yet know.
+
+**TIP:** Don't quickly dismiss an entire area just because you do not enjoy a particular course in it. Think critically to assess if it's the actual content that you find unenjoyable, or if it's just the professor's teaching style that does not align with you. 
+
+
+Perhaps you'd actually enjoy the material but your current
 
 - Big picture: look at prof’s research interests
 - Identify top-tier conferences (even if it’s not where you’ll submit, good to know what’s being done)
