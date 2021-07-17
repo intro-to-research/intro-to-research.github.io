@@ -51,9 +51,9 @@ For context, most researchers work on many different specific projects (e.g., "l
 We recommend two main options for _selecting_ a specific problem and consequently a project:
 
 1. Ask a **professor** in your department if they need help with any project. 
-2. Read/skim tons of papers on your own.
+2. **Read/skim tons of research papers** on your own.
 
-Notice that these two options are for _selecting_/finding a problem and project, not for the actual work itself. Inevitably, your project will not be entirely independent, and this is especially true and critical for your first few years of research. If you are an undergraduate or new graduate student, you will conduct research with a particular professor; you'll do nearly 100% of the work, but you will report your results to them and they will advise you according to the results you report to them. Thus, it will be a joint effort and you will have a adviser.  
+NOTE: these two options are not mutually-exclusive, and they are for _selecting_/finding a problem and project -- not for the actual work itself. Inevitably, your project will not be entirely independent, and this is especially true and critical for your first few years of research. If you are an undergraduate or new graduate student, you will conduct research with a particular professor; you'll do nearly 100% of the work, but you will report your results to them and they will advise you according to the results you report to them. Thus, it will be a joint effort between you and your adviser (e.g., professor).
 
 - Big picture: look at prof’s research interests
 - Identify top-tier conferences (even if it’s not where you’ll submit, good to know what’s being done)
@@ -83,6 +83,8 @@ Notice that these two options are for _selecting_/finding a problem and project,
 	- What are you curious about?
 	- What sparks your interest / do you think is important to work on?
 	- Might be worth revisiting after you’ve seen a bit of the literature
+
+## HOW TO READ A PAPER
 
 
 ## NICE TO HAVE / WHERE TO PUT THESE?
