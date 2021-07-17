@@ -48,6 +48,13 @@ All of these are coarse problems and can be thought of as sub-fields. They are n
 
 For context, most researchers work on many different specific projects (e.g., "low-resource machine translation") for a particular problem (e.g., machine translation). And, people commonly research several different problems within a field (e.g., machine translation and summarization, which are both within the field of NLP). Less common, but definitely not rare, a given researcher will span multiple fields within one's career (e.g., NLP and Computer Vision). Some fields are naturally more interdisciplinary than others (e.g., Human-Computer Interaction, Computational Biology).
 
+We recommend two main options for _selecting_ a specific problem and consequently a project:
+
+1. Ask a **professor** in your department if they need help with any project. 
+2. Read/skim tons of papers on your own.
+
+Notice that these two options are for _selecting_/finding a problem and project, not for the actual work itself. Inevitably, your project will not be entirely independent, and this is especially true and critical for your first few years of research. If you are an undergraduate or new graduate student, you will conduct research with a particular professor; you'll do nearly 100% of the work, but you will report your results to them and they will advise you according to the results you report to them. Thus, it will be a joint effort and you will have a adviser.  
+
 - Big picture: look at prof’s research interests
 - Identify top-tier conferences (even if it’s not where you’ll submit, good to know what’s being done)
 - Scan many Abstracts, Introductions, Conclusions
