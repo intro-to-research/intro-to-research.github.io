@@ -4,7 +4,7 @@ title: How to do Research?
 permalink: /how
 ---
 
-As mentioned in the [What?](what?) page, research always concerns a highly specific problem/task/issue, and it aims to produce new knowledge about it. Thus, we organize our suggestions for "how to conduct research" accordingly: first, we detail some tips about finding an interesting problem to work on, then we briefly outline some steps to dive into the problem. The [exercises](exercises) page expands on this much more. Remember, conducting research is an art, and it can take many years to become effective. Heck, learning how to do it is the entire purpose of a PhD, which typically lasts 5-7 years. So, please do not interpret our suggestions below as being prescriptive, comprehensive, infallible truth.
+We strongly recommend you first read our [What?](what?) page, if you haven't already. As it mentions, research always concerns a highly specific problem/task/issue, and it aims to produce new knowledge about it. Thus, we organize our suggestions for "how to conduct research" accordingly: first, we detail some tips about finding an interesting problem to work on, then we briefly outline some steps to dive into the problem. The [exercises](exercises) page expands on this much more. Remember, conducting research is an art, and it can take many years to become effective. Heck, learning how to do it is the entire purpose of a PhD, which typically lasts 5-7 years. So, please do not interpret our suggestions below as being prescriptive, comprehensive, infallible truth. It is simply our advice.
 
 ## HOW TO FIND A RESEARCH PROBLEM
 
