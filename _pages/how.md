@@ -84,18 +84,14 @@ Reading research papers can be a non-obvious and difficult task, one that can ta
 
 If you're just starting out in a new field (e.g., NLP), you must first learn what are the premiere research venues for publication. In Computer Science, conferences are the gold standard for disseminating research findings, not journals.
 
-**IDENTIFY THE TOP-TIER CONFERENCES**
-You can do this by looking at where prolific researchers in the field tend to publish. A professor's list of publications is usually located on their website, along with Google Scholar or Semantic Scholar. For AI-related fields, you can visit [https://aideadlin.es/?sub=ML,NLP,SP](https://aideadlin.es/?sub=ML,NLP,SP). For context, each field tends to have just 3-4 "top-tier" conferences.
+**IDENTIFY THE TOP-TIER CONFERENCES:**
 
-[TODO: mention skimming paper titles, tutorials, workshops, shared tasks, course syllabi]
+You can do this by looking at where prolific researchers in the field tend to publish. A professor's list of publications is usually located on their website, along with Google Scholar or Semantic Scholar. For AI-related fields, you can visit [https://aideadlin.es/?sub=ML,NLP,SP](https://aideadlin.es/?sub=ML,NLP,SP). For context, each field tends to have just 3-4 "top-tier" conferences, nearly all of which are yearly and with free access to all publications. You can find a given conference's accepted papers by searching online for "[CONFERENCE NAME] [YEAR] accepted papers" (e.g., "NAACL 2021 accepted papers").
 
+**READ AND TAKE NOTES:**
+Once you have identified the top venues, gain an understanding of the most common problems by reading/skimming tons of paper titles from the last 2-3 years. It's also highly useful to look at the tutorials, workshops, and shared tasks from each of the conferences. Also, you can get an indication of the important problems by looking at graduate course syllabi to see what is covered in the curriculum. 
 
-
-
-
-- Identify top-tier conferences (even if it’s not where you’ll submit, good to know what’s being done)
-- Scan many Abstracts, Introductions, Conclusions
-- Take notes about common problems, datasets, approaches, metrics.
+As you read papers and become familiar with the field, take extensive notes on the common problems, datasets, approaches, metrics, and authors who work you enjoy. Your perspective of the field and problems will likely significantly shift during the first few weeks, so don't underestimate the power of taking and reviewing notes. I suggest using a medium/format that will encourage you to be free and comfortable in your writing, one that doesn't stifle your creativity and thoughts. For example, for me, a simple, no-frills text editor (e.g., emacs, Sublime, or Evernote) is most conducive for notetaking and brainstorming, and when I want to come up with research ideas, I prefer to use a piece of scratch paper and pen.
 
 ## RESEARCH PROBLEM AXES
 - Size of contribution/impact
