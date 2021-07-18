@@ -59,7 +59,7 @@ NOTE: these two options are not mutually-exclusive, and they are closely related
 
 In short, there's an inverse correlation between the degree to which you already know a particular, potential adviser and how familiar you might need to be with the field, problem, project before discussing research opportunities with them. The smoothest and most streamlined scenario is when a student contacts a potential adviser and already has an exact project in mind. This doesn't have to be a new, novel project; it can be an existing project that the adviser works on with other students (this is very common). Having a project in mind is much easier for the adviser and is a golden scenario because, again, it takes a significant cognitive effort to craft well-scoped, appropriate ideas for a research project, and this is further complicated when one has to adjust the work to best align with others' current knowledge and abilities. 
 
-As a quick example, I am flattered and happy that a few dozen strangers per year cold-email me, asking me if I have any research opportunities for them to work with me on. They include their CV/resume, they are often good students at international schools, and they tend to have some machine learning experience in the form of a few courses and projects/internships. Most don't have much or any NLP experience. They [TODO: finish this]. I am unfamiliar with their school, professors, employer, and they haven't yet demonstrated any profiency in NLP, and they don't demonstrate any deliberate passion for a particular NLP problem. I wish I could collaborate with every interested student, but unfortunately I have a finite amount of time. The discussed scenario, overall, is a huge risk for me to take. Their lack of NLP experience and targeted passion signals that I would most likely need to hand-feed the entire project to them. If a student simply, blindly executes every instruction I suggest, it would not be conducive to a healthy environment. There would be no guarantee that they would find the work exciting or fulfilling, either, which is critically important. 
+As a quick example for perspective, I am flattered and happy that a few dozen strangers per year cold-email me, asking me if I have any research opportunities for them to work with me on. They include their CV/resume and are strong students from international universities. They tend to have some machine learning experience in the form of a few courses and projects/internships. However, if they don't have much or any NLP experience, I cannot consider working with them. I have no reason to doubt that they aren't capable of producing great research, but I'd have to help teach them a foundation in NLP and there are a lot of uncertainties: I am unfamiliar with their school, professors, and employer; they haven't yet demonstrated any profiency in NLP; and, critically, they haven't demonstrated passion for a particular NLP problem. I wish I could collaborate with every interested student, but unfortunately I have a finite amount of time. The discussed scenario, overall, is a huge risk for me to take. Their lack of NLP experience and targeted passion signals that I would most likely need to hand-feed the entire project to them. If a student simply, blindly executes every instruction I suggest, it would not be conducive to a healthy environment. Also, there would be no guarantee that they would find the work exciting or fulfilling, which is critically important, as I want every student to love what they work on.
 
 **AN ESTABLISHED CONNECTION:**
 Ideally, you should already have some rapport with the potential adviser. For example, perhaps you have taken 1 or 2 classes with a professor, or you've shared a seminar class w/ a senior PhD student and you two worked on the same course project together. And, depending on your relation, you may already feel comfortable having a casual conversation with them, whereby you ask about their research, with the hopes of seeing if there's a shared interest in the work. 
@@ -68,21 +68,29 @@ Ideally, you should already have some rapport with the potential adviser. For ex
 If you have a limited relation to the potential adviser (e.g., having taken just 1 large-enrollment course with the adviser, and they don't know you by name), it is greatly helpful -- although not required -- if you can do some "homework" to learn about the types of problems they work on before you speak with them. This is mostly possible by reading their website (hopefully they have one) and reading the titles of their papers (or the entire paper if possible). Depending on the relation, I'd recommend spending at most two days on this prep-work. The goal is just to become a little more familiar with the terms and types of problems, so that it's a more fruitful and meaningful conversation with the adviser. This groundwork will help you self-determine your own interests, but don't dwell on this steps too much or place unhealthy pre-requisites for yourself. Heck, the adviser might not even have any available research opportunities.
 
 **NO RELATION:**
-If you have no relation to the potential adviser (e.g., they work at a different university), then it's much more necessary to have read their works and to be prepared for the type of research that you are hoping for them to engage with you on.
+If you have no relation to the potential adviser (e.g., they work at a different university and you have no shared connections), then it's much more necessary to have read their works and to be prepared for the type of research that you are hoping for them to engage with you on.
 
-**(B) READ/SKIM PAPERS**
+[Yonathan Bisk has a great page](https://yonatanbisk.com/emailing_professors.html) that details some aspects about emailing professors.
 
- For example, if you're already on good terms with the adviser, you can naturally have a pleasant, friendly conversation.
-
-
-
-Reading research papers can be a non-obvious and difficult task, one that can take a while to become effective. Please see our section on this further down in this webpage. In short, please do not feel intimidated by or obligated to read an adviser's papers ahead of time; in fact, just reading their paper titles and doing a few web searches can be a tremendous help.
-
-
-
+Once you have spoken with an adviser about potential projects, the expectation is that you two might work together. During these initial stages, or before you even initiate conversation with them, it is extremely helpful to read/skim tons of papers concerning the problem or specific project. This will not only help you catch up and learn about the area, but it'll help you determine if it's something you truly find interesting.
 
 **DON'T BE SHY OR INTIMIDATED**
 It is highly rewarding and fun to help a student navigate the process of research, and to introduce them to their first research experiences -- even if that means connecting the student with other professors who work on topics that are better aligned with the student's. The bottom line is that if you are interested in research, please do not be shy at all when reaching out to others for opportunities! Do not feel obligated to have well-understood an entire field or problem ahead of time; if everyone waited to master a field or problem before they embark on researching it, then no research and advances would ever occur. Students are a huge driving force behind a majority of research in the world, and we welcome everyone who is interested -- regardless of one's background.
+
+
+**(B) READ/SKIM PAPERS**
+
+Reading research papers can be a non-obvious and difficult task, one that can take a while to become effective. Please see our section on this further down in this webpage. In short, please do not feel intimidated by or obligated to read an adviser's papers ahead of time; in fact, just reading their paper titles and doing a few web searches can be a tremendous help.
+
+If you're just starting out in a new field (e.g., NLP), you must first learn what are the premiere research venues for publication. In Computer Science, conferences are the gold standard for disseminating research findings, not journals.
+
+**IDENTIFY THE TOP-TIER CONFERENCES**
+You can do this by looking at where prolific researchers in the field tend to publish. A professor's list of publications is usually located on their website, along with Google Scholar or Semantic Scholar. For AI-related fields, you can visit [https://aideadlin.es/?sub=ML,NLP,SP](https://aideadlin.es/?sub=ML,NLP,SP). For context, each field tends to have just 3-4 "top-tier" conferences.
+
+[TODO: mention skimming paper titles, tutorials, workshops, shared tasks, course syllabi]
+
+
+
 
 
 - Identify top-tier conferences (even if it’s not where you’ll submit, good to know what’s being done)
