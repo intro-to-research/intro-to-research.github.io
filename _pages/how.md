@@ -80,7 +80,7 @@ It is highly rewarding and fun to help a student navigate the process of researc
 
 **(B) READ/SKIM PAPERS**
 
-Reading research papers can be a non-obvious and difficult task, one that can take a while to become effective. Please see our section on this further down in this webpage. In short, please do not feel intimidated by or obligated to read an adviser's papers ahead of time; in fact, just reading their paper titles and doing a few web searches can be a tremendous help.
+Reading research papers can be a non-obvious and difficult task, one that can take a while to become effective. Please see our section on this further down in this web page. In short, please do not feel intimidated by or obligated to read an adviser's papers ahead of time; in fact, just reading their paper titles and doing a few web searches can be a tremendous help.
 
 If you're just starting out in a new field (e.g., NLP), you must first learn what are the premiere research venues for publication. In Computer Science, conferences are the gold standard for disseminating research findings, not journals.
 
