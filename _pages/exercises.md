@@ -9,11 +9,14 @@ Within our [How?](how) page, we quickly outlined some exercises that allow one t
 Feel free to jump around to any of the exercises, in any order you desire.
 
 ## EXERCISE 1: FINDING A PAPER
-- identify the top conferences for your field
+- Find some publication venues for your field. Feel free to ask a friend, colleague, or try searching around for conferences by looking at papers (or typical search engines).
 - if you're familiar 
 
 ## EXERCISE 2: READING A PAPER IN 3 STAGES
 **Pre-requisites:** having selected a paper (Ex 1)
+
+- Take a look at Keshav's [How to Read a Paper](https://www.albany.edu/spatial/training/3-How%20to%20read%20a%20paper.pdf).
+- Pick a paper you have not read, and try to walk through it following Keshav's three step process.
 
 ## EXERCISE 3: ASKING QUESTIONS
 **Pre-requisites:** having selected a paper (Ex 1) and read it (Ex 2).
@@ -25,8 +28,9 @@ Feel free to jump around to any of the exercises, in any order you desire.
 
 ## EXERCISE 4: SUMMARIZING A PAPER
 Detail:
-- what is the problem/why is it important?
+- what is the problem or question, and why is it important?
 - what is their solution?
+- what modelling choices or other assumptions did the paper make, and how could these have been made differently?
 - what’s their data?
 - what’s the metric and performance?
 - what did they do well/poorly?
@@ -35,3 +39,5 @@ Detail:
 
 ## EXERCISE 5: PRESENTING A PAPER
 Identifying these points is not only useful for the audience to understand, but it’s critically important for the person presenting. Getting into this habit while skimming or reading a paper is great. It helps one think critically about each paper, instead of just taking it at face value. Of course, it’s also good practice for explaining highly-technical content in simplifying terms, which is crucial for science (e.g., writing papers, giving talks)
+
+- Find a friendly audience; some friends, classmates, or a familiar lab, and try giving a presentation about some existing work.
